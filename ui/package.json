@@ -63,7 +63,7 @@
     "react-svg-piechart": "^2.1.1",
     "redoc": "^2.0.0-rc.40",
     "sass-loader": "^6.0.6",
-    "source-map-loader": "^0.2.3",
+    "source-map-loader": "^1.0.0",
     "style-loader": "^0.20.1",
     "superagent": "^3.8.2",
     "superagent-promise": "^1.1.0",
@@ -75,7 +75,7 @@
     "unidiff": "^1.0.2",
     "webpack": "^4.44.2",
     "webpack-cli": "^3.3.12",
-    "webpack-dev-server": "^3.11.0"
+    "webpack-dev-server": "^4.9.0"
   },
   "resolutions": {
     "@types/react": "16.8.5",
